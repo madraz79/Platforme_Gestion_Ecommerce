@@ -1,0 +1,73 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#onglets{
+    display: flex;
+    justify-content:space-evenly;
+}
+#contenu{
+
+}
+.mes_ongles/*span*/ {
+    margin-top: 5vh;
+}
+.contenu_ongles{
+    padding-top: 10vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+article{
+    padding: 1vw;
+    margin-bottom: 1vw;
+    width: 15vw;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+img{
+    max-width: 150px;
+    height: 150px;
+}
+.modal{
+    position: absolute;
+    right: 39vw;
+    top: calc(45vh/2) ;
+    padding: 4vh;
+    width: 20vw;
+    background-color: aliceblue;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+}
+input{
+   margin-bottom: 1vh;
+   width: 60%;
+}
+.modal button {
+    margin-top: 2vh;
+}
+
+.gris{
+    position: absolute;
+    top : 0;
+    width: 100vw;
+    height: 100vh;
+    background-color:rgba(0, 0, 0, 0.5)
+}
+button{
+    padding:6px 0 6px 0;
+	font:bold 13px Arial;
+	background:#478bf9;
+	color:#fff;
+	border-radius:2px;
+	width:100px;
+	border:none;
+}
+#gauge_1, #gauge_2, #gauge_3, #gauge_4 {
+    width: 200px;
+    height: 160px;
+}
