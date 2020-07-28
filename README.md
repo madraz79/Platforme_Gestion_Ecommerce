@@ -1,4 +1,5 @@
 # Platforme_Gestion_Ecommerce
+# Projet de groupe créé avec trois autres collègues pendant ma formation.
 ***Exemple avec les API de eBay.***
 ## Introduction :
 L’idée du projet était de créer une interface E-commerce pour les vendeurs. Toujours difficile de gérer ses ventes, ses stocks ainsi que ses produits quand ils sont disponibles sur plusieurs points de ventes E-commerce, ce site permet à tous les vendeurs de retrouver l’intégralité des informations de leur produit dans un seul et unique endroit. Disposer en plusieurs catégories, il devait être facile pour les vendeurs de naviguer sur le site. 
